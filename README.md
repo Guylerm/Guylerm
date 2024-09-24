@@ -1,16 +1,13 @@
-## Hi there 👋
+## ola boas vindas 👋
 
-<!--
-**Guylerm/Guylerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Guilherme Camargo 
 
-Here are some ideas to get you started:
+Campeão do jeps eletronicos!
+-Progamador profissional do scratch
+-aluno do KPG BEATS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ENTRAR EM CONTATO 👌👇
+
+@camargo.guilherme02@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/GIeK3qGXPEkAAAAC/hiro-code016.gif)
