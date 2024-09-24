@@ -6,7 +6,7 @@ Meu nome é Guilherme Camargo
 
 -Progamador profissional do scratch
 
--aluno do KPG BEATS🎶😎
+-Aluno do KPG BEATS🎶😎
 
 ### ENTRAR EM CONTATO 👌👇
 
